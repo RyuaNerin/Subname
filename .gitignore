@@ -1,0 +1,14 @@
+Thumbs.db
+
+*.obj
+*.exe
+*.pdb
+*.user
+*.suo
+
+[Bb]in/
+[Oo]bj/
+[Uu]ncommit/
+
+
+*.snk
